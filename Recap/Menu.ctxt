@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=sltT\ sltN\ s\ b\ iU\ xS\ yS\ rr
+comment0.target=Menu(int,\ int,\ boolean,\ boolean,\ boolean,\ int,\ int,\ int)
+comment1.params=left\ right\ up\ down
+comment1.target=void\ useMenu(boolean,\ boolean,\ boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ isInUse()
+comment3.params=
+comment3.target=int\ getSlotTotal()
+comment4.params=
+comment4.target=int\ getSlotNum()
+comment5.params=
+comment5.target=int\ getXStart()
+comment6.params=
+comment6.target=int\ getYStart()
+comment7.params=
+comment7.target=int\ getRate()
+comment8.params=
+comment8.target=boolean\ select()
+comment9.params=b
+comment9.target=void\ setUse(boolean)
+numComments=10

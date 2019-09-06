@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Enemy\ for\ Player\ (Ends\ game)\r\n\ \r\n\ Nate\ Geschwill\r\n\ \r\n
+comment1.params=xx\ yy\ hlth\ wdth\ hght\ hX\ hY\ attcktmr\ rP
+comment1.target=Enemy(int,\ int,\ int,\ int,\ int,\ int,\ int,\ long,\ int)
+comment2.params=
+comment2.target=void\ setAttackDelay()
+comment3.params=
+comment3.target=long\ getAttackDelay()
+comment4.params=
+comment4.target=int\ getRewardPoints()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=px\ py\ speed
+comment6.target=void\ moveEnemy(int,\ int,\ int)
+numComments=7

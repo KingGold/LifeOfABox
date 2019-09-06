@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=xx\ yy\ i\ hlth\ wdth\ hght\ hX\ hY\ invntry
+comment0.target=MainCharacter(int,\ int,\ Item,\ int,\ int,\ int,\ int,\ int,\ Item[])
+comment1.params=dirx\ diry
+comment1.target=void\ movePlayer(double,\ double)
+comment2.params=i
+comment2.target=void\ setEquippedItem(Item)
+comment3.params=
+comment3.target=Item\ getEquippedItem()
+comment4.params=num
+comment4.target=Item\ getStoredItem(int)
+comment5.params=
+comment5.target=boolean\ checkForRoom()
+comment6.params=it\ slot
+comment6.target=void\ setItem(Item,\ int)
+comment7.params=it
+comment7.target=void\ addItem(Item)
+comment8.params=
+comment8.target=void\ clearInventory()
+numComments=9

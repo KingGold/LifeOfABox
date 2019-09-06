@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=n\ xx\ yy\ tkn\ dam\ wdth\ hght\ attcktmr\ rP\ wA\ aeX\ aeY\ dR
+comment0.target=Weapon(java.lang.String,\ int,\ int,\ boolean,\ int,\ int,\ int,\ long,\ int,\ boolean,\ int,\ int,\ long)
+comment1.params=
+comment1.target=int\ getDamage()
+comment2.params=
+comment2.target=void\ setAttackDelay()
+comment3.params=
+comment3.target=long\ getAttackDelay()
+comment4.params=
+comment4.target=void\ setDuration()
+comment5.params=
+comment5.target=long\ getDurationLeft()
+comment6.params=
+comment6.target=boolean\ isWActive()
+comment7.params=wA
+comment7.target=void\ setWActive(boolean)
+comment8.params=
+comment8.target=int\ getAOEX()
+comment9.params=
+comment9.target=int\ getAOEY()
+numComments=10
